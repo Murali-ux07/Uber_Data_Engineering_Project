@@ -68,8 +68,7 @@ This project demonstrates building a scalable data pipeline for Uber trip data, 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/UberDataEngineering.git
-cd UberDataEngineering
+- git clone https://github.com/Murali-ux07/Uber_Data_Engineering_Project.git
 
 
 ### 2. Install Dependencies
